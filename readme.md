@@ -1,7 +1,7 @@
 # 📊 Análisis de Ventas y Publicidad en Medios
 
 Este proyecto analiza cómo impacta la inversión en publicidad (TV, radio y diarios) sobre las ventas de una empresa, usando Python y visualización de datos. Se trabaja con un dataset simulado de presupuestos y resultados de campañas.
-
+![Vista previa del dashboard](preview.png)
 ---
 
 ## 🎯 Objetivo
